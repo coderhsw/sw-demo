@@ -1,0 +1,14 @@
+.h1 {
+    padding: 20px;
+    color: #222;
+    background: #f0f0f0;
+  }
+
+  img {
+    width: 700px;
+  }
+
+  .btn {
+    display: block;
+    margin-bottom: 20px;
+  }
